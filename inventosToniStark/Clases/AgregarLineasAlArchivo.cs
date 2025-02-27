@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-
 public class ArchivoInventos
 {
     // Ruta del archivo donde se guardarán los inventos
